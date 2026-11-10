@@ -1,3 +1,5 @@
+Перевод выполнен с помощью Gemini 4 Argon
+
 Файл Logic.ds2res требуется заменить в папке игры Dungeon Siege 2\Resources
 
 Файл World.ds2map требуется заменить в папке игры Dungeon Siege 2\Maps
